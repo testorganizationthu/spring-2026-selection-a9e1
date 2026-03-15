@@ -1,3 +1,6 @@
 [submodule "problems/binary-search-9b11"]
 	path = problems/binary-search-9b11
 	url = https://github.com/testorganizationthu/binary-search-9b11.git
+[submodule "problems/graph-traversal-d26d"]
+	path = problems/graph-traversal-d26d
+	url = https://github.com/testorganizationthu/graph-traversal-d26d.git
